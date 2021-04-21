@@ -27,3 +27,4 @@ app/.env
 .env
 data.js
 .eslintrc.cjs
+app/src/jsconfig.json
