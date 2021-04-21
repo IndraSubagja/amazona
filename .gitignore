@@ -25,3 +25,5 @@ yarn-error.log*
 package-lock.json
 app/.env
 .env
+data.js
+.eslintrc.cjs
