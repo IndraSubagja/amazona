@@ -26,5 +26,4 @@ package-lock.json
 app/.env
 .env
 data.js
-.eslintrc.cjs
-app/src/jsconfig.json
+server.js
